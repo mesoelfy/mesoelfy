@@ -48,5 +48,5 @@ function init() {
   <br/>
   <!-- This is a placeholder for a 'Matrix' or 'Static' style footer. 
        If you have a preferred GIF, replace this URL. -->
-  <img src="https://media.giphy.com/media/10SvWCbt1ytWYE/giphy.gif" width="100%" height="100" style="object-fit: cover; opacity: 0.3; filter: grayscale(100%);" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZmdmx2NTBhem5tdzdpajFmZjF2M3V4NWIyY3VjeW80MG9yZnBkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLtxIwE5B8iyc/giphy.gif" width="100%" height="100" style="object-fit: cover; opacity: 0.3; filter: grayscale(100%);" />
 </div>
